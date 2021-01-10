@@ -34,6 +34,6 @@ function switchAge(age) {
       console.log("You are a teenager");
       break
     defalut:
-     console.log("You are an age");
+     console.log("You have an age");
   }
 }
